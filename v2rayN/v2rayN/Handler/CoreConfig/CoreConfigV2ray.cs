@@ -1168,9 +1168,9 @@ namespace v2rayN.Handler.CoreConfig
                     {
                         fragment = new()
                         {
-                            packets = "tlshello",
-                            length = "100-200",
-                            interval = "10-20"
+                            packets = "1-1",
+                            length = "1-2",
+                            interval = "1-2"
                         }
                     }
                 };
